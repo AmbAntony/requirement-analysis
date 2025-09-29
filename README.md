@@ -1,4 +1,4 @@
-# requirement-analysis
+# Requirement-Analysis
 📖 What is Requirement Analysis? Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) where the needs and expectations of stakeholders are gathered, analyzed, and documented. It serves as the foundation for all subsequent stages of development by ensuring that the system to be built will meet the intended purpose.
 
 🧠 Key Concepts Requirement Gathering: Collecting information from users, clients, and stakeholders to understand what the software must achieve.
